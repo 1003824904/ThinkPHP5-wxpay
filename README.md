@@ -1,7 +1,7 @@
 # ThinkPHP5 微信支付扩展库（2017年9月24日）
 
 
-# 此项目已停止维护，如果有需要微信支付的，可以去 https://github.com/zoujingli/pay-php-sdk 看一看
+## 此项目已停止维护，如果有需要类似SDK的，可以去 https://github.com/zoujingli/pay-php-sdk 看一看
 
 ## 使用说明
 - 在默认配置情况下，将文件夹**拷贝到根目录**即可, 其中<code>extend</code>目录为扩展目录
